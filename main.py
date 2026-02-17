@@ -16,7 +16,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 st.set_page_config(page_title="Conchita AI (2.5 Flash)", page_icon="⚡", layout="wide")
 
 # --- 2. INTERFAZ VISUAL ---
-st.title("⚡ Conchita: News Writer Agent")
+st.title("⚡ FelisucoAI - Redacción de Noticias con Gemini 2.5 Flash")
 st.markdown("### Redacción de noticias con IA de última generación")
 
 # --- BARRA LATERAL (CONFIGURACIÓN) ---
